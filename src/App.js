@@ -36,7 +36,6 @@ export default function App() {
                 </div>
             ))}
           </div>
-            <h2>Finish</h2>
         </div>
     );
 }
